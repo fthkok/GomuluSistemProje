@@ -1,0 +1,23 @@
+1.Before updating Node.js, please be sure to remove old versions:
+
+-sudo apt-get purge node nodejs node.js -y
+-sudo apt-get autoremove
+
+2.Add repositories:
+
+-curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
+3.Install Node.js:
+
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install build-essential nodejs -y
+
+4.Install Blynk globally
+sudo npm install blynk-library -g
+sudo npm install onoff -g
+
+5.Run default Blynk client (replace YourAuthToken):
+
+export PATH=$PATH:/opt/nodejs/bin/
+unset NODE_PATH
+blynk-client YourAuthToken
