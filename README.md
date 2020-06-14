@@ -1,9 +1,9 @@
 # GomuluSistemProje
 Remote Control project by an Android app for raspberry pi 4 model
 (Android mobil uygulama tabanlı uzaktan kontrol projesi)
-<img align="right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/smart%20tech.jpg">
-Projenin adım adım yapılışını [Sunum](https://drive.google.com/file/d/1E2f2XrrP8_0pYNAL4NVeHentCClqI8yb/view?usp=sharing) 'inde, 
-sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfqBnj6zNEEH2qz8ftxPbXCcGVn/view?usp=sharing) 'inde bulabilirsiniz.
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/smart%20tech.jpg" width="900" height="500">
+Projenin adım adım yapılışını [Sunum](https://drive.google.com/file/d/1E2f2XrrP8_0pYNAL4NVeHentCClqI8yb/view?usp=sharing) linkinde, 
+sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfqBnj6zNEEH2qz8ftxPbXCcGVn/view?usp=sharing) linkinde bulabilirsiniz.
 
 ## Project Requirements -(Proje Gereksinimleri)
   ### Hardware(Donanım)
@@ -32,11 +32,11 @@ sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfq
     2 × USB 3.0 ve 2 × USB 2.0 Ports
     2 × mikro HDMI (1 × 4K@60Hz & 2 × 4K@30Hz) 
    
-  ![raspberry pi 4b](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg)
+  <img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg" width="600" height="500">
 
 ## Diet Pi OS
 You can download from this link to install your raspberry(Diet Pi işletim sistemini bu linkten indirebilirsiniz)[Link](https://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Buster.7z)
-![dietpi](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/diet%20pi.PNG)
+ <img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/diet%20pi.PNG" width="800" height="500">
 
 ## Blynk App
 You can download from this link to install your raspberry(Blynk uygulamasını bu linkten indirebilirsiniz)[Link](https://play.google.com/store/apps/details?id=cc.blynk&hl=en)
@@ -70,7 +70,8 @@ You can download from this link to install your raspberry(Blynk uygulamasını b
 ![playstore](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Play%20store.png)
 
 4.Login to BLynk app(Uygulama üzerinde kullanıcı adı /şifre ile kayıt olunur)
-![login](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Login.jpg)
+
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Login.jpg" width="400" height="800">
 
 5.Get token from Blynk app to connect raspberry pi (Uygulamanın,kayıt olunan mail hesabına Rasberry Pi ile eşleşme yapılması için token gönderimi)
 `
@@ -82,16 +83,17 @@ blynk-client YourAuthToken
 ![blynktoken](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Authentication%20Code.jpg)
 
 7.Pairing android device with raspberry pi (Rasberry Pi üzerinde eşlemenin tamamlanması)
-![pairing](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/connected.png)
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/connected.png">
 
 8.Open project on Blynk (Blynk uygulamasından yeni proje seçimi)
-![openproject](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20New%20Project.jpg)
+
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20New%20Project.jpg" width="400" height="800">
 
 9.Choose embedded model (Blynk uygulamasından donanım modeli ve versiyonunun seçilmesi)
-![choosemodel](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20choosing%20embedded%20model.jpg)
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20choosing%20embedded%20model.jpg" width="400" height="800">
 
 10.Choose output gpio(Donanım üzerinde led devresine bağlı portların seçilmesi)
-![gpio](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20choosing%20gpio.jpg)
+<img src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20choosing%20gpio.jpg" width="400" height="800">
 
 12.Finalize design and test your circuit (Uygulama arayüz tasarımının tamamlanması ve test işlemi)
 ![finalize](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/bread%20board.png)
