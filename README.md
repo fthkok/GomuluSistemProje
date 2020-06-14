@@ -22,7 +22,8 @@ sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfq
     1. Improving Energy Efficiency(Enerji verimliliğini arttırmak)
     2. Ensuring Accessibility(Erişilebilirliği ve mobiliteyi sağlamak)
     3. Make savings for money and energy (Enerji ve para tasarrrufu)
-## Raspberry Pi 4B
+## Raspberry Pi 4B 
+
     1.5 GHz 4 Cores ARM Cortex-A72 CPU
     2GB LPDDR4 RAM SKU | 
     VideoCore VI Graphics
@@ -30,7 +31,8 @@ sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfq
     Gigabit Ethernet
     2 × USB 3.0 ve 2 × USB 2.0 Ports
     2 × mikro HDMI (1 × 4K@60Hz & 2 × 4K@30Hz) 
-   <img align= "right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg">
+   
+  ![raspberry pi 4b](https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg")
 
 ## Diet Pi OS
 You can download from this link to install your raspberry(Diet Pi işletim sistemini bu linkten indirebilirsiniz)[Link](https://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Buster.7z)
