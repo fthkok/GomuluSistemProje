@@ -18,4 +18,7 @@ sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfq
      1.Diet Pi OS (Diet Pi İşletim Sistemi)
      2.Blynk App
      
-    
+ ## Benefits and Target-(Projenin Faydaları ve Hedefi)
+    1. Increasing Energy Efficiency(Enerji verimliliğini arttırmak)
+    2. Ensuring Accessibility(Erişilebilirliği ve mobiliteyi sağlamak)
+    3. Make savings fo money and elect. energy (Enerji ve para tasarrrufu)
