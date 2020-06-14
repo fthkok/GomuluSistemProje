@@ -23,14 +23,14 @@ sadece uygulama videosunu [Video Link](https://drive.google.com/file/d/1-JU1hBfq
     2. Ensuring Accessibility(Erişilebilirliği ve mobiliteyi sağlamak)
     3. Make savings for money and energy (Enerji ve para tasarrrufu)
 ## Raspberry Pi 4B
-1.5 GHz 4 Cores ARM Cortex-A72 CPU
-2GB LPDDR4 RAM SKU | 
-VideoCore VI Graphics
-4kp60 HEVC video
-Gigabit Ethernet
-2 × USB 3.0 ve 2 × USB 2.0 Ports
-2 × mikro HDMI (1 × 4K@60Hz & 2 × 4K@30Hz) 
-<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg">
+    1.5 GHz 4 Cores ARM Cortex-A72 CPU
+    2GB LPDDR4 RAM SKU | 
+    VideoCore VI Graphics
+    4kp60 HEVC video
+    Gigabit Ethernet
+    2 × USB 3.0 ve 2 × USB 2.0 Ports
+    2 × mikro HDMI (1 × 4K@60Hz & 2 × 4K@30Hz) 
+   <img align= "right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg">
 
 ## Diet Pi OS
 You can download from this link to install your raspberry(Diet Pi işletim sistemini bu linkten indirebilirsiniz)[Link](https://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Buster.7z)
@@ -49,13 +49,13 @@ You can download from this link to install your raspberry(Blynk uygulamasını b
 ## Codes (Kodlar)
 
 1.Use below codes to update Diot OS version(Diet OS güncellemek için aşağıdaki kod yazılır)
-### curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+'curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash - '
 
 2.Install or update codes for Blynk app libraries (Blynk uygulamasının kütüphanelerinin indirilmesi ve kurulumu)
-### sudo apt-get update && sudo apt-get upgrade
-### sudo apt-get install build-essential nodejs -y
-### sudo npm install blynk-library -g
-### sudo npm install onoff -g
+'sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install build-essential nodejs -y
+sudo npm install blynk-library -g
+sudo npm install onoff -g'
 
 3.Install Blynk app from Play Market to android device(Play Market’ten Blynk uygulaması kumanda edecek telefona yüklenir)
 <img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Play%20store.png">
