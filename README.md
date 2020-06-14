@@ -30,21 +30,21 @@ VideoCore VI Graphics
 Gigabit Ethernet
 2 × USB 3.0 ve 2 × USB 2.0 Ports
 2 × mikro HDMI (1 × 4K@60Hz & 2 × 4K@30Hz) 
-<img align="right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg">
+<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/raspberry%20pi%204B.jpg">
 
 ## Diet Pi OS
 You can download from this link to install your raspberry(Diet Pi işletim sistemini bu linkten indirebilirsiniz)[Link](https://dietpi.com/downloads/images/DietPi_RPi-ARMv6-Buster.7z)
-<img align="right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/diet%20pi.PNG">
+<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/diet%20pi.PNG">
 ## Blynk App
 You can download from this link to install your raspberry(Blynk uygulamasını bu linkten indirebilirsiniz)[Link](https://play.google.com/store/apps/details?id=cc.blynk&hl=en)
-<img align="right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Server.png">
+<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Server.png">
 
 ## How is it work? (Nasıl Çalışır?)
 1.Blynk application receives inputs from the user(Blynk uygulaması kullanıcıdan gelen inputları alır)
 2.Received inputs are sent to Blynk servers(Alınan inputlar Blynk serverlarına gönderilir)
 3.Raspberry Pi interprets the inputs that it receives from the Blynk server and transmits it to gpio pins(Rasberry Pi ,Blynk server'ından aldığı inputları yorumlar ve gpio çılışlarına iletir)
 4.Gpio transmits the incoming information to the circuit board and the led lights up(Gpio gelen bilgileri devre tahtasına iletir ve led şık yanar)
-<img align="right" src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/how%20is%20it%20work..PNG">
+<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/how%20is%20it%20work..PNG">
 
 ## Codes (Kodlar)
 
@@ -58,7 +58,7 @@ You can download from this link to install your raspberry(Blynk uygulamasını b
 ### sudo npm install onoff -g
 
 3.Install Blynk app from Play Market to android device(Play Market’ten Blynk uygulaması kumanda edecek telefona yüklenir)
-<img align="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Play%20store.png">
+<img align=src="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Play%20store.png">
 
 4.Login to BLynk app(Uygulama üzerinde kullanıcı adı /şifre ile kayıt olunur)
 <img align="https://github.com/fthkok/GomuluSistemProje/blob/master/Pictures/Blynk%20Login.jpg">
